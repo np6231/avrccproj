@@ -1,0 +1,51 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="np6231.github.io/avrccproj" resolutions="1x" timestamp="1464306564884">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_interior.css" crc="4294951646" ref="downloads:index:report"/>
+    <file name="master_main.css" crc="4065643212" ref="downloads:index:report"/>
+    <file name="downloads.css" crc="62707543" ref="downloads"/>
+    <file name="index.css" crc="250231769" ref="index"/>
+    <file name="report.css" crc="200296127" ref="report"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>report:phone>downloads:tablet>index:tablet>report:tablet>downloads:index:report:downloads"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>report:phone>downloads:tablet>index:tablet>report:tablet>downloads:index:report:downloads"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>report:phone>downloads:tablet>index:tablet>report:tablet>downloads:index:report:downloads"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:phone>report:phone>downloads:tablet>index:tablet>report:tablet>downloads:index:report:downloads"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>report:phone>downloads:tablet>index:tablet>report:tablet>downloads:index:report:downloads"/>
+    <file name="pie.js" crc="3827607177" ref="phone>downloads:tablet>downloads:downloads"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>report:tablet>downloads:index:report:downloads"/>
+  </folder>
+  <folder name="images">
+    <file name="u496-6.png" crc="4219930128" ref="phone>index:phone>report:phone>downloads"/>
+    <file name="u488-6.png" crc="3792503530" ref="tablet>index:tablet>report:tablet>downloads"/>
+    <file name="u249-6.png" crc="325451446" ref="index:report:downloads"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_main.css" crc="471293696" ref="tablet>index:tablet>report:tablet>downloads"/>
+      <file name="master_interior.css" crc="4241712677" ref="tablet>index:tablet>report:tablet>downloads"/>
+      <file name="index.css" crc="477033757" ref="tablet>index"/>
+      <file name="report.css" crc="3950542730" ref="tablet>report"/>
+      <file name="downloads.css" crc="4209508902" ref="tablet>downloads"/>
+    </folder>
+    <file name="index.html" crc="266540448" seo="true" mt="1464306456079" redirect="true"/>
+    <file name="report.html" crc="4059023896" seo="true" mt="1464306424239" redirect="true"/>
+    <file name="downloads.html" crc="3869011200" seo="true" mt="1464306239708" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_main.css" crc="339906426" ref="phone>index:phone>report:phone>downloads"/>
+      <file name="master_interior.css" crc="170262381" ref="phone>index:phone>report:phone>downloads"/>
+      <file name="index.css" crc="192612791" ref="phone>index"/>
+      <file name="report.css" crc="3823654524" ref="phone>report"/>
+      <file name="downloads.css" crc="446573392" ref="phone>downloads"/>
+    </folder>
+    <file name="index.html" crc="3803257208" seo="true" mt="1464306476126" redirect="true"/>
+    <file name="report.html" crc="3870161164" seo="true" mt="1464306323174" redirect="true"/>
+    <file name="downloads.html" crc="4101409977" seo="true" mt="1464306253890" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="103658500" seo="true" mt="1464303977046" redirect="true"/>
+  <file name="report.html" crc="266621239" seo="true" mt="1464304337214" redirect="true"/>
+  <file name="downloads.html" crc="4055613485" seo="true" mt="1464306189946" redirect="true"/>
+</manifest>
