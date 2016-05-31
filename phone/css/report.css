@@ -1,7 +1,7 @@
 .version.report /* version checker */
 {
-	color: #0000E3;
-	background-color: #E8567C;
+	color: #0000FC;
+	background-color: #B9AF9E;
 }
 
 @-ms-viewport
@@ -282,15 +282,15 @@
 #u411
 {
 	z-index: 2;
-	min-height: 36px;
-	padding-bottom: 38px;
+	min-height: 67px;
+	padding-bottom: 7px;
 }
 
 #u437-4
 {
 	z-index: 4;
 	width: 204px;
-	min-height: 25px;
+	min-height: 59px;
 	margin-right: -10000px;
 	margin-top: 8px;
 	left: 6px;
@@ -309,7 +309,7 @@
 #u411-bw
 {
 	z-index: 2;
-	min-height: 36px;
+	min-height: 67px;
 }
 
 body

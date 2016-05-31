@@ -1,7 +1,7 @@
 .version.downloads /* version checker */
 {
-	color: #00001A;
-	background-color: #9E2B50;
+	color: #0000EE;
+	background-color: #1ACCF2;
 }
 
 @-ms-viewport
@@ -280,9 +280,9 @@
 	z-index: 35;
 	width: 338px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
-	padding-bottom: 9px;
+	padding-bottom: 10px;
 	position: relative;
 }
 
@@ -296,7 +296,7 @@
 
 #buttonu612.ButtonSelected
 {
-	background-color: #CACACA;
+	background-color: #FF3700;
 	width: 338px;
 	min-height: 0px;
 	margin: 0px;
@@ -308,14 +308,14 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
+	margin-top: 17px;
 	left: 68px;
 }
 
@@ -325,7 +325,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 119px;
-	margin: 18px -10000px 0px 0px;
+	margin: 17px -10000px 0px 0px;
 }
 
 #buttonu612:hover #u613-4 p
@@ -340,7 +340,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -362,9 +362,9 @@
 	z-index: 41;
 	width: 338px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
-	padding-bottom: 9px;
+	padding-bottom: 10px;
 	margin-top: 35px;
 	position: relative;
 }
@@ -383,14 +383,14 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
+	margin-top: 17px;
 	left: 68px;
 }
 
@@ -400,7 +400,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 119px;
-	margin: 18px -10000px 0px 0px;
+	margin: 17px -10000px 0px 0px;
 }
 
 #buttonu615:hover #u616-4 p
@@ -415,7 +415,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -437,9 +437,9 @@
 	z-index: 47;
 	width: 338px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
-	padding-bottom: 9px;
+	padding-bottom: 10px;
 	margin-top: 36px;
 	position: relative;
 }
@@ -454,7 +454,7 @@
 
 #buttonu618.ButtonSelected
 {
-	background-color: #CACACA;
+	background-color: #FF3700;
 	width: 338px;
 	min-height: 0px;
 	margin: 36px 0px 0px;
@@ -466,14 +466,14 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
+	margin-top: 17px;
 	left: 68px;
 }
 
@@ -483,7 +483,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 119px;
-	margin: 18px -10000px 0px 0px;
+	margin: 17px -10000px 0px 0px;
 }
 
 #buttonu618:hover #u619-4 p
@@ -498,7 +498,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -520,9 +520,9 @@
 	z-index: 53;
 	width: 338px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
-	padding-bottom: 9px;
+	padding-bottom: 10px;
 	margin-top: 35px;
 	position: relative;
 }
@@ -541,14 +541,14 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
+	margin-top: 17px;
 	left: 68px;
 }
 
@@ -558,7 +558,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 119px;
-	margin: 18px -10000px 0px 0px;
+	margin: 17px -10000px 0px 0px;
 }
 
 #buttonu624:hover #u625-4 p
@@ -573,7 +573,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -595,9 +595,9 @@
 	z-index: 59;
 	width: 338px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
-	padding-bottom: 9px;
+	padding-bottom: 10px;
 	margin-top: 35px;
 	position: relative;
 }
@@ -612,7 +612,7 @@
 
 #buttonu615.ButtonSelected,#buttonu624.ButtonSelected,#buttonu621.ButtonSelected
 {
-	background-color: #CACACA;
+	background-color: #FF3700;
 	width: 338px;
 	min-height: 0px;
 	margin: 35px 0px 0px;
@@ -624,14 +624,14 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
+	margin-top: 17px;
 	left: 68px;
 }
 
@@ -641,7 +641,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 119px;
-	margin: 18px -10000px 0px 0px;
+	margin: 17px -10000px 0px 0px;
 }
 
 #buttonu621.ButtonSelected #u622-4
@@ -650,7 +650,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 119px;
-	margin: 18px -10000px 0px 0px;
+	margin: 17px -10000px 0px 0px;
 }
 
 #buttonu621:hover #u622-4 p
@@ -661,7 +661,7 @@
 
 #buttonu612.ButtonSelected #u613-4 p,#buttonu615.ButtonSelected #u616-4 p,#buttonu618.ButtonSelected #u619-4 p,#buttonu624.ButtonSelected #u625-4 p,#buttonu621.ButtonSelected #u622-4 p
 {
-	color: #3C3C3C;
+	color: #000000;
 	visibility: inherit;
 }
 
@@ -671,7 +671,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -690,7 +690,7 @@
 
 #buttonu612.ButtonSelected #u614,#buttonu615.ButtonSelected #u617,#buttonu618.ButtonSelected #u620,#buttonu624.ButtonSelected #u626,#buttonu621.ButtonSelected #u623
 {
-	background-color: #545454;
+	background-color: #823700;
 	width: 18px;
 	height: 17px;
 	min-height: 0px;
@@ -700,15 +700,15 @@
 #u411
 {
 	z-index: 2;
-	min-height: 36px;
-	padding-bottom: 38px;
+	min-height: 67px;
+	padding-bottom: 7px;
 }
 
 #u437-4
 {
 	z-index: 4;
 	width: 204px;
-	min-height: 25px;
+	min-height: 59px;
 	margin-right: -10000px;
 	margin-top: 8px;
 	left: 6px;
@@ -727,7 +727,7 @@
 #u411-bw
 {
 	z-index: 2;
-	min-height: 36px;
+	min-height: 67px;
 	margin-top: 24px;
 }
 
