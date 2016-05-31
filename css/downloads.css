@@ -1,7 +1,7 @@
 .version.downloads /* version checker */
 {
-	color: #000003;
-	background-color: #BCD757;
+	color: #000018;
+	background-color: #347694;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 593.9999999999999px;
+	min-height: 594px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -26,22 +25,21 @@
 #page_position_content
 {
 	margin-bottom: -1px;
-	padding-top: 6px;
 	width: 0.01px;
 }
 
 #u145
 {
 	z-index: 9;
-	min-height: 90px;
-	padding-bottom: 20px;
+	min-height: 96px;
+	padding-bottom: 14px;
 }
 
 #u249-6
 {
 	z-index: 10;
 	margin-right: -10000px;
-	margin-top: 22px;
+	margin-top: 28px;
 	left: 121px;
 }
 
@@ -50,7 +48,7 @@
 	z-index: 16;
 	width: 458px;
 	margin-right: -10000px;
-	margin-top: 39px;
+	margin-top: 45px;
 	left: 580px;
 }
 
@@ -250,7 +248,7 @@
 #u145-bw
 {
 	z-index: 9;
-	min-height: 90px;
+	min-height: 96px;
 }
 
 #u610
@@ -261,7 +259,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 51px;
-	margin-top: 37px;
+	margin-top: 43px;
 	position: relative;
 }
 
@@ -270,7 +268,7 @@
 	z-index: 36;
 	width: 862px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
 	padding-bottom: 9px;
 	position: relative;
@@ -286,7 +284,7 @@
 
 #buttonu589.ButtonSelected
 {
-	background-color: #CACACA;
+	background-color: #FF3700;
 	width: 862px;
 	min-height: 0px;
 	margin: 0px;
@@ -298,7 +296,7 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
@@ -330,7 +328,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -352,7 +350,7 @@
 	z-index: 42;
 	width: 862px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
 	padding-bottom: 9px;
 	margin-top: 36px;
@@ -373,7 +371,7 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
@@ -405,7 +403,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -427,7 +425,7 @@
 	z-index: 48;
 	width: 862px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
 	padding-bottom: 9px;
 	margin-top: 36px;
@@ -448,7 +446,7 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
@@ -480,7 +478,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -502,7 +500,7 @@
 	z-index: 54;
 	width: 862px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
 	padding-bottom: 9px;
 	margin-top: 36px;
@@ -523,7 +521,7 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
@@ -555,7 +553,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -577,7 +575,7 @@
 	z-index: 60;
 	width: 862px;
 	border-color: #787878;
-	background-color: #CACACA;
+	background-color: #FF3700;
 	border-radius: 10px;
 	padding-bottom: 9px;
 	margin-top: 36px;
@@ -594,7 +592,7 @@
 
 #buttonu592.ButtonSelected,#buttonu595.ButtonSelected,#buttonu598.ButtonSelected,#buttonu601.ButtonSelected
 {
-	background-color: #CACACA;
+	background-color: #FF3700;
 	width: 862px;
 	min-height: 0px;
 	margin: 36px 0px 0px;
@@ -606,7 +604,7 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #3C3C3C;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 1px;
@@ -643,7 +641,7 @@
 
 #buttonu589.ButtonSelected #u590-4 p,#buttonu592.ButtonSelected #u593-4 p,#buttonu595.ButtonSelected #u596-4 p,#buttonu598.ButtonSelected #u599-4 p,#buttonu601.ButtonSelected #u602-4 p
 {
-	color: #3C3C3C;
+	color: #000000;
 	visibility: inherit;
 }
 
@@ -653,7 +651,7 @@
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
-	background-color: #545454;
+	background-color: #823700;
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
@@ -672,7 +670,7 @@
 
 #buttonu589.ButtonSelected #u591,#buttonu592.ButtonSelected #u594,#buttonu595.ButtonSelected #u597,#buttonu598.ButtonSelected #u600,#buttonu601.ButtonSelected #u603
 {
-	background-color: #545454;
+	background-color: #823700;
 	width: 18px;
 	height: 17px;
 	min-height: 0px;
@@ -682,7 +680,7 @@
 #u124
 {
 	z-index: 2;
-	min-height: 107px;
+	min-height: 110px;
 	padding-bottom: 112px;
 }
 
@@ -725,7 +723,7 @@
 #u124-bw
 {
 	z-index: 2;
-	min-height: 107px;
+	min-height: 110px;
 	margin-top: 54px;
 }
 
